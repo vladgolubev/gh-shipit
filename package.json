@@ -62,7 +62,7 @@
     "boxen": "4.2.0",
     "chalk": "2.4.2",
     "cli-width": "2.2.0",
-    "debug": "4.2.0",
+    "debug": "4.3.1",
     "enquirer": "2.3.6",
     "graphql": "14.5.8",
     "graphql-tag": "2.11.0",
