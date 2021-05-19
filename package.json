@@ -61,7 +61,7 @@
     "apollo-link-http": "1.5.17",
     "boxen": "4.2.0",
     "chalk": "2.4.2",
-    "cli-width": "2.2.0",
+    "cli-width": "2.2.1",
     "debug": "4.2.0",
     "enquirer": "2.3.6",
     "graphql": "14.5.8",
