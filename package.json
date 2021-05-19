@@ -80,7 +80,7 @@
     "p-progress": "0.4.2",
     "pretty-version-diff": "1.0.0",
     "progress": "2.0.3",
-    "semver": "6.3.0",
+    "semver": "7.3.4",
     "string-width": "4.2.0",
     "update-notifier": "3.0.1"
   },
